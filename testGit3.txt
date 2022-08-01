@@ -1,1 +1,2 @@
 khanh đang ở branch khanhnguyen
+tôi đang thử từng chức năng của git 
