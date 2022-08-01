@@ -1,7 +1,2 @@
 khanh đang học github khanh hoc nhanh lắm
-<<<<<<< HEAD
 kahnh đang siêng năng học
-=======
-khanh ơi ko hỉu chỗ nào
->>>>>>> 2e854002090c91b7fa31b3f90a55e2612bab7442
-
