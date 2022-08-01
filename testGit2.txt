@@ -1,2 +1,7 @@
 khanh đang học github khanh hoc nhanh lắm
+<<<<<<< HEAD
 kahnh đang siêng năng học
+=======
+kahnh đang siêng năng học
+
+>>>>>>> khanhnguyen
