@@ -1,2 +1,3 @@
 khanh đang test chức năng merge
 tôi đã hiểu hơn về git 
+tôi đang muốn hiếu hơn về chúng
