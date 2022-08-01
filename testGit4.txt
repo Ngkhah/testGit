@@ -1,1 +1,2 @@
 khanh đang test chức năng merge
+tôi đã hiểu hơn về git 
